@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Maratona de Programação
+title: Maratona de Programação UFV
 email: maratona@ufv.br
 description: >- # this means to ignore newlines until "baseurl:"
   A Maratona de Programação do Departamento de Informática da Universidade Federal
-  de Viçosa acontece anualmente como parte da Semana de Informática do curso de
-  Ciência da Computação.
+  de Viçosa é um evento de extensão que acontece anualmente como parte da Semana de Informática do curso de
+  Ciência da Computação. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
