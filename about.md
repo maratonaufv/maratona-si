@@ -4,7 +4,7 @@ title: Sobre
 permalink: /sobre/
 ---
 
-A Maratona de Programação da Semana de Informática (MPSI) foi criada em 2019 nos moldes da [Maratona SBC de Programação](https://maratona.sbc.org.br/sobre/index.html), da [Sociedade Brasileira de Computação]()(SBC). 
+A Maratona de Programação da Semana de Informática foi criada em 2019 nos moldes da [Maratona SBC de Programação](https://maratona.sbc.org.br/sobre/index.html), da [Sociedade Brasileira de Computação](https://www.sbc.org.br/) (SBC). 
 
 # Objetivo e Regras
 
