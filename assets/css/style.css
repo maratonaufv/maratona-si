@@ -1,3 +1,61 @@
+body {
+    /* font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif; */
+    font-family: 'Neue Haas Grotesk Text', sans-serif;
+    line-height: 1.8;
+    /* font-size: 18px; */
+}
+
+h1 {
+    line-height: 1.4;
+    font-size: 26px;
+}
+
+a {
+    color: black !important;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:visited{
+    font-weight: bold;
+    color: black !important;
+    text-decoration: none !important;
+}
+
+.wrapper {
+    max-width: 1150px;
+}
+
+.site-title {
+    font-size: 30px;
+    width: 180px;
+    line-height: 1.1;
+    font-weight: bold;
+}
+
+.site-header {
+    border-color: black;
+    border-width: 4px;
+    border-top: 0px;
+    padding: 20px 0px 0px 10px;
+    width: 100%;
+}
+
+.site-nav {
+    padding-top: 58px;
+    padding-right: 200px;
+}
+
+.menu-icon {
+    width: 20px;
+}
+
+.page-link {
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
 .logos {
     display: flex;
     align-items: center;
@@ -6,38 +64,16 @@
 
 .main-photo {
     width: 100%;
-    padding-bottom: 20px;
-}
-
-.ufv-background {
-    background-color: rgb(96, 46, 46)
-}
-
-.site-header {
-    border-bottom: 0px;
-    border-width: 2px;
-    border-top: 0px;
-    padding-top: 20px;
+    padding-bottom: 10px;
 }
 
 .site-footer {
+    /* border-color: black; */
     border-width: 2px;
-    max-width: 960px;
-    margin-right: auto;
-    margin-left: auto;
 }
 
-.site-nav {
-    font-size: 18px;
-}
-
-.wrapper {
-    max-width: 960px;
-    margin-right: auto;
-    margin-left: auto;
-}
-
-.page-content {
-    padding-top: 10px;
-    font-size: 18px;
+.post-title {
+    /* padding-top: 10px; */
+    font-size: 30px;
+    font-weight: bold;
 }
