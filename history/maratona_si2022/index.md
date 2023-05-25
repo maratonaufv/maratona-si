@@ -19,6 +19,9 @@ porém, devido ao grande número de provas que os alunos estavam tendo na época
 
 A prova continha 11 problemas, todos desenvolvidos pelos professores Salles e André Gustavo dos Santos e Salles Viana Gomes de Magalhães, do Departamento de Informática (DPI) da UFV.
 
+- [Caderno de Questões]({{'/history/maratona_si2022/problems.pdf' | relative_url}})
+- Discussão de Soluções
+
 ## Times
 
 1. **me leva pra Itália, dedé!!** (UFV - Viçosa)
@@ -83,11 +86,11 @@ A prova continha 11 problemas, todos desenvolvidos pelos professores Salles e An
 ## Resultado
 
 Os três melhores colocados foram os seguintes:
-- 1 lugar: time **me leva pra Itália, dedé!!**, 8 problemas resolvidos
-- 2 lugar: time **RSX**, 7 problemas resolvidos
-- 3 lugar: time **Façam exemplos no papel**, 8 problemas resolvidos
+- 1<sup>o</sup>  lugar: time **me leva pra Itália, dedé!!**, 8 problemas resolvidos.
+- 2<sup>o</sup>  lugar: time **RSX**, 7 problemas resolvidos.
+- 3<sup>o</sup>  lugar: time **Façam exemplos no papel**, 8 problemas resolvidos.
 
-O melhor time com participação remota foi o **me leva pra Itália, dedé!!**, com 6 problemas resolvidos
+O melhor time visitante foi o **/* */**, com 6 problemas resolvidos.
 
 ## Patrocínio
 

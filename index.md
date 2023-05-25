@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<img class="main-photo" src="{{'/assets/images/dpi_picture.jpg' | relative_url}}">
+<img class="main-photo" src="{{'/assets/images/dpi_picture3.jpg' | relative_url}}">
 
 <div class="site-footer-ufv">
     <div>
