@@ -4,14 +4,18 @@ title: Sobre
 permalink: /sobre/
 ---
 
-A Maratona de Programação da Semana de Informática foi criada em 2019 nos moldes da [Maratona SBC de Programação](https://maratona.sbc.org.br/sobre/index.html), da [Sociedade Brasileira de Computação](https://www.sbc.org.br/) (SBC). 
+A Maratona de Programação da Semana de Informática (SI) do [Departamento de Informática](https://www2.dpi.ufv.br/) (DPI) da [Universidade Federal de Viçosa](https://www.ufv.br/) (UFV) é um evento de extensão que acontece anualmente desde 2019 como parte da Semana de Informática (SI) do curso de Ciência da Computação.
 
-# Objetivo e Regras
 
-Os competidores participam em times de até 3 estudantes, com objetivo de resolver a maior quantidade de questões da prova no menor tempo. 
+# Objetivo
 
-As regras da competição são as seguintes:
+O objetivo desse evento é criar um espaço descontraído para que os alunos desenvolvam suas capacidades de resolução de problemas computacionais complexos. Além disso, a Maratona de Programação da SI é uma excelente porta de entrada para alunos interessados em participar de maratonas maiores, como a [Maratona Mineira de Programação da SBC](https://mineira.sbc.org.br/), a [Maratona SBC de Programação](https://maratona.sbc.org.br/) e a [International Collegiate Programming Contest](https://icpc.global/) (ICPC).
 
+# Regras
+
+A Maratona de Programação da SI segue as regras da [Maratona SBC de Programação](https://maratona.sbc.org.br/sobre/index.html), da [Sociedade Brasileira de Computação](https://www.sbc.org.br/) (SBC):
+
+- Os competidores participam em times de até 3 estudantes e ganha aquele que resolver a maior quantidade de questões da prova no menor tempo;
 - No início da prova, cada time recebe um caderno de questões impresso, o qual foi escrito por professores do Departamento de Informática da UFV e possui diferentes níveis de dificuldade;
 - As soluções são julgadas por um juiz automatizado, que compara as saídas geradas pelos programas desenvolvidos pelos alunos com as saídas esperadas;
 - Cada questão é associada a um balão de uma determinada cor. Sempre que um time resolve uma questão, ele recebe um balão (virtual, no sistema de submissão, e real, que é pendurado ao lado do computador do time) daquela cor;
