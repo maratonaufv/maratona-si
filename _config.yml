@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Maratona de Programação da UFV
+title: Maratona de Programação UFV
 email: maratona@ufv.br
 description: >- # this means to ignore newlines until "baseurl:"
   A Maratona de Programação do Departamento de Informática da Universidade Federal
