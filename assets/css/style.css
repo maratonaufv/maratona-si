@@ -4,21 +4,25 @@ body {
     line-height: 1.8;
 }
 
-h1 {
-    line-height: 1.2;
-    font-size: 22px;
+a:link {
+    color: black !important;
+    font-weight: bold;
+    text-decoration: none;
 }
 
-a {
+a:visited {
     color: black !important;
     text-decoration: none;
-    font-weight: bold;
 }
 
-a:visited{
-    font-weight: bold;
+a:hover {
+    color: grey !important;
+    text-decoration: none;
+}
+
+a:active {
     color: black !important;
-    text-decoration: none !important;
+    text-decoration: none;
 }
 
 .wrapper {
@@ -59,24 +63,65 @@ a:visited{
     margin: 0px;
 }
 
-.logos {
-    display: flex;
-    align-items: center;
-    text-align: center;
-}
-
 .main-photo {
     width: 100%;
     padding-bottom: 10px;
-}
-
-.site-footer {
-    /* border-color: black; */
-    border-width: 2px;
 }
 
 .post-title {
     /* padding-top: 10px; */
     font-size: 30px;
     font-weight: bold;
+}
+
+.site-footer-ufv {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content:flex-start;
+    text-align: left;
+}
+
+.site-footer-ufv  h1 {
+    line-height: 1.2;
+    font-size: 22px;
+    margin: 0px 0px 0px 10px;
+    font-weight: bold;
+}
+
+.site-footer-ufv h2 {
+    line-height: 1.2;
+    font-size: 22px;
+    margin: 0px 0px 0px 10px;
+}
+
+.logo {
+    float: left;
+    margin: 10px;
+    width: 100px;
+}
+
+/*Media Query*/
+@media(max-width: 850px) {
+    .site-title {
+        width: 85%;
+    }
+
+    .logo {
+        float:none;
+    }
+
+    .site-footer-ufv {
+        display: block;
+    }
+
+    .site-nav {
+        float: left;
+        align-items: center;
+        padding: 0px;
+    }
+
+    .page-link {
+        margin-left: 0px;
+    }
 }
