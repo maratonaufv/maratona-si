@@ -25,3 +25,15 @@ body {
 .contest-info {
     padding: 10px 0px 10px 0px;
 }
+
+.contest-sponsors {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.contest-sponsors img {
+    width: 200px;
+    margin-top: 10px;
+}

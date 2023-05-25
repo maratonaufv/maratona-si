@@ -7,8 +7,8 @@ layout: page
 permalink: /historico/
 ---
 
-- [5<sup>a</sup> Maratona de Programação da SI (2022)]({{ "/history/maratona_si2022.html" | relative_url }})
-- [4<sup>a</sup> Maratona de Programação da SI (2021)]()
-- [3<sup>a</sup> Maratona de Programação da SI (2020)]()
-- [2<sup>a</sup> Maratona de Programação da SI (2019)]()
-- [1<sup>a</sup> Maratona de Programação da SI (2018)]()
+- [5<sup>a</sup> Maratona de Programação da SI (2022)]({{ "/history/maratona_si2022/" | relative_url }})
+- 4<sup>a</sup> Maratona de Programação da SI (2021)
+- 3<sup>a</sup> Maratona de Programação da SI (2020)
+- 2<sup>a</sup> Maratona de Programação da SI (2019)
+- 1<sup>a</sup> Maratona de Programação da SI (2018)
