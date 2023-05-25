@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "pt_br" }}">
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        {%- seo -%}
+        <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+        <link rel="stylesheet" href="{{ "/assets/css/contest.css" | relative_url }}">
+        
+        <link href="https://fonts.cdnfonts.com/css/neue-haas-grotesk-text" rel="stylesheet">
+        
+        {%- feed_meta -%}
+        {%- if jekyll.environment == 'production' and site.google_analytics -%}
+        {%- include google-analytics.html -%}
+        {%- endif -%}
+    </head>
+
+    <body>
+
+    <main class="page-content wrapper" aria-label="Content">
+        <div class="wrapper">
+            <div class="contest-header">
+                <h1 class="contest-title">{{page.contest}} {{page.semester}}</h>
+                <h3 class="contest-subtitle">{{page.department}} - {{page.university}}</h3>
+            </div>
+    
+            <div class="contest-info">
+                <img class="contest-photo" src="{{'/assets/images/dpi_picture.jpg' | relative_url}}">
+
+                <table>
+                    <tr>
+                        <td>Horário:</td>
+                        <td>{{page.hours}}</td>
+                    </tr>
+                    <tr>
+                        <td>Data:</td>
+                        <td>{{page.date}}, {{page.hours}}</td>
+                    </tr>
+                    <tr>
+                        <td>Local:</td>
+                        <td>{{page.room}}</td>
+                    </tr>
+                </table>
+            </div>
+
+            {{ content }}
+        </div>
+    </main>
+
+    </body>
+</html>

@@ -1,0 +1,27 @@
+body {
+    font-family: 'Neue Haas Grotesk Text', sans-serif;
+}
+
+.wrapper {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contest-title {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.contest-subtitle {
+    font-size: 22px;
+    margin: 0px;
+}
+
+.contest-photo {
+    padding: 10px 0px 10px 0px;
+}
+
+.contest-info {
+    padding: 10px 0px 10px 0px;
+}
