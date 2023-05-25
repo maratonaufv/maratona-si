@@ -22,7 +22,7 @@ As regras da competição são as seguintes:
 
 # Sistema de Submissão e Avaliação 
 
-Tradicionalmente, a Maratona da SI, assim como na Maratona da SBC, utiliza o sistema de controle de competição [BOCA Online Contest Administrator]() (BOCA). A figure a seguir ilustra a interface desse sistema:
+Tradicionalmente, a Maratona da SI, assim como na Maratona da SBC, utiliza o sistema de controle de competição [BOCA Online Contest Administrator]() (BOCA). A figura a seguir ilustra a interface desse sistema:
 
 <img src="{{'/assets/images/boca.png' | relative_url}}">
 
