@@ -2,12 +2,11 @@ body {
     /* font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif; */
     font-family: 'Neue Haas Grotesk Text', sans-serif;
     line-height: 1.8;
-    /* font-size: 18px; */
 }
 
 h1 {
     line-height: 1.4;
-    font-size: 26px;
+    font-size: 30px;
 }
 
 a {
@@ -35,9 +34,9 @@ a:visited{
 
 .site-header {
     border-color: black;
-    border-width: 4px;
+    border-width: 2px;
     border-top: 0px;
-    padding: 20px 0px 0px 10px;
+    padding: 40px 0px 10px 10px;
     width: 100%;
 }
 
@@ -51,9 +50,13 @@ a:visited{
 }
 
 .page-link {
-    margin-left: 20px;
-    font-size: 16px;
+    margin-left: 30px;
+    font-size: 18px;
     font-weight: bold;
+}
+
+.post-header {
+    margin: 0px;
 }
 
 .logos {
