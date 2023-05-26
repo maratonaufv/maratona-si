@@ -29,20 +29,11 @@
             <div class="contest-info">
                 <img class="contest-photo" src="{{page.photo | relative_url}}">
 
-                <table>
-                    <tr>
-                        <td>Horário:</td>
-                        <td>{{page.hours}}</td>
-                    </tr>
-                    <tr>
-                        <td>Data:</td>
-                        <td>{{page.date}}</td>
-                    </tr>
-                    <tr>
-                        <td>Local:</td>
-                        <td>{{page.room}}</td>
-                    </tr>
-                </table>
+                <ul>
+                    <li><b>Horário:</b> {{page.hours}}</li>
+                    <li><b>Data:</b> {{page.date}}</li>
+                    <li><b>Local:</b> {{page.room}} </li>
+                </ul>
             </div>
 
             {{ content }}

@@ -26,6 +26,17 @@ body {
     padding: 10px 0px 10px 0px;
 }
 
+.contest-info ul {
+    margin: 0px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.contest-info li {
+    list-style-type: none;
+    margin: 10px 0px 10px 0px;
+}
+
 .contest-sponsors {
     display: flex;
     flex-direction: row;

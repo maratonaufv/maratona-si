@@ -6,14 +6,14 @@ contest: 5<sup>a</sup> Maratona de Progamação</br>Semana de Informática
 semester: 2022/2
 hours: 18:00 - 22:00
 room: CCE416
-date: Quinta-feira, 18/05/2023
+date: 18 de maio de 2023 (quinta-feira)
 photo: /assets/images/dpi_picture.jpg
 ---
 
 ## Introdução
 
 A 5<sup>a</sup> Maratona de Progamação Semana de Informática estava inicialmente prevista para ocorrer durante a Semana de Informática de 2022,
-porém, devido ao grande número de provas que os alunos estavam tendo na época, ela foi adiada para o primeiro semestre de 2023. A competição teve 14 times inscritos, sendo que 10 times eram da UFV - Viçosa e 5 times eram visitantes, com 2 times da UFV - Florestal e 2 times do CEFET - Leopoldina. A prova teve duração de 3 horas, sendo que os 10 times da UFV - Viçosa realizaram a prova presencialmente na sala DPI416 do prédio do Centro de Ciências Exatas, no campus Viçosa, e os demais times realizaram a prova remotamente.  
+porém, devido ao grande número de provas que os alunos estavam tendo na época, ela foi adiada para o primeiro semestre de 2023. A competição teve 14 times inscritos, sendo que 10 times eram da UFV - Viçosa e 4 times eram visitantes, com 2 times da UFV - Florestal e 2 times do CEFET - Leopoldina. A prova teve duração de 3 horas, sendo que os 10 times da UFV - Viçosa realizaram a prova presencialmente na sala CCE416 do prédio do Centro de Ciências Exatas, no campus Viçosa, e os demais times realizaram a prova remotamente.  
 
 ## Problemas
 
@@ -60,7 +60,7 @@ A prova continha 11 problemas, todos desenvolvidos pelos professores André Gust
    - Júlia Costa de Faria		
    - Melissa Araújo
    - Ana Clara Antunes Rocha
-10. **New School** (CEFET - MG)
+10. **New School** (CEFET - Leopoldina)
    - Lukas Julius Wolf		
    - Richard Coelho Gomes
    - Wendell Reis Milani Matias
@@ -75,15 +75,10 @@ A prova continha 11 problemas, todos desenvolvidos pelos professores André Gust
 13. **Uno de escada** (UFV - Viçosa)
    - Hygor de Oliveira Souza	
    - Anderson Gabriel Souza Rosario 
-14. **Oktoplus: Old School** (CEFET - MG)
+14. **Oktoplus: Old School** (CEFET - Leopoldina)
    - Isabelly Araújo Temoteo		
    - Henrique Campos Junqueira
    - Vinícius Lima Fernandes
-
-<!-- 15. **nois com seg** (UFV - Florestal)
-   - Dener Vieira Ribeiro		
-   - Guilherme Correa Melos
-   - Germano Barcelos dos Santos -->
 
 ## Resultado
 
@@ -100,9 +95,9 @@ O melhor time cursando INF110 - Programação 1 foi o **Até que durou**, com 6 
 
 <div class="contest-sponsors">
    <div>
-      <img src="{{'/history/maratona_si2022/sponsors/sydle_logo.png' | relative_url}}">
+      <a href="https://www.sydle.com/br/"><img src="{{'/history/maratona_si2022/sponsors/sydle_logo.png' | relative_url}}"></a>
    </div>
    <div>
-      <img src="{{'/history/maratona_si2022/sponsors/levty_logo.png' | relative_url}}">
+      <a href="https://levty.com/br"><img src="{{'/history/maratona_si2022/sponsors/levty_logo.png' | relative_url}}"></a>
    </div>
 </div>

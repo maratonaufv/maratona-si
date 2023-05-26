@@ -9,7 +9,7 @@ layout: page
 
 <div class="site-footer-ufv">
     <div>
-        <img class="logo" src="{{'/assets/images/ufv_logo.png' | relative_url}}">
+        <a href="https://www.ufv.br"><img class="logo" src="{{'/assets/images/ufv_logo.png' | relative_url}}"></a>
     </div>
 
     <div>
