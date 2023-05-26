@@ -2,8 +2,8 @@
 layout: contest
 university: Universidade Federal de Viçosa
 department: Departamento de Informática
-contest: 5<sup>a</sup> Maratona de Progamação</br>Semana de Informática
-semester: 2022/2
+contest: V Maratona de Progamação</br>Semana de Informática
+semester: 2022
 hours: 18:00 - 22:00
 room: CCE416
 date: 18 de maio de 2023 (quinta-feira)
@@ -12,7 +12,7 @@ photo: /assets/images/dpi_picture.jpg
 
 ## **Introdução**
 
-A 5<sup>a</sup> Maratona de Progamação Semana de Informática estava inicialmente prevista para ocorrer durante a Semana de Informática de 2022, porém, devido ao grande número de provas que os alunos estavam tendo na época, ela foi adiada para o primeiro semestre de 2023. A competição teve 14 times inscritos, sendo que 10 times eram da UFV - Viçosa e 4 times eram visitantes, com 2 times da UFV - Florestal e 2 times do CEFET - Leopoldina. A prova teve duração de 3 horas, sendo que os 10 times da UFV - Viçosa realizaram a prova presencialmente na sala CCE416 do prédio do Centro de Ciências Exatas, no campus Viçosa, e os demais times realizaram a prova remotamente.  
+A V Maratona de Progamação Semana de Informática estava inicialmente prevista para ocorrer durante a Semana de Informática de 2022, porém, devido ao grande número de provas que os alunos estavam tendo na época, ela foi adiada para o primeiro semestre de 2023. A competição teve 14 times inscritos, sendo que 10 times eram da UFV - Viçosa e 4 times eram visitantes, com 2 times da UFV - Florestal e 2 times do CEFET - Leopoldina. A prova teve duração de 3 horas, sendo que os 10 times da UFV - Viçosa realizaram a prova presencialmente na sala CCE416 do prédio do Centro de Ciências Exatas, no campus Viçosa, e os demais times realizaram a prova remotamente.  
 
 ## **Organizadores**
 
