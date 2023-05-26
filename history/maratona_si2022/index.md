@@ -94,10 +94,14 @@ O melhor time cursando INF110 - Programação 1 foi o **Até que durou**, com 6 
 ## Patrocínio
 
 <div class="contest-sponsors">
+
    <div>
+      <a href="https://levty.com/br"><img src="{{'/history/maratona_si2022/sponsors/levty_logo.png' | relative_url}}"></a>
+   </div>
+      <div>
       <a href="https://www.sydle.com/br/"><img src="{{'/history/maratona_si2022/sponsors/sydle_logo.png' | relative_url}}"></a>
    </div>
    <div>
-      <a href="https://levty.com/br"><img src="{{'/history/maratona_si2022/sponsors/levty_logo.png' | relative_url}}"></a>
+      <a href="https://ciandt.com/"><img src="{{'/history/maratona_si2022/sponsors/ciandt-logo.png' | relative_url}}"></a>
    </div>
 </div>
