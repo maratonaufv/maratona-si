@@ -24,61 +24,61 @@ A prova continha 11 problemas, todos desenvolvidos pelos professores André Gust
 
 ## Times
 
-1. **me leva pra Itália, dedé!!** (UFV - Viçosa)
-   - Bruno Alencar Vieira de Rezende
-   - Samuel Raimundo Lopes Pinto
-   - Erick Soares de Souza
-2. **RSX** (UFV - Viçosa)
-   - Henrique Campos Padula		
-   - Cecília Cassab Prieto
-   - Nicolas Eliel dos Reis Silva
-3. **/* */** (UFV - Florestal)
+1. **/* */** (UFV - Florestal)
    - Paulo Henrique Carneiro Silva 	
    - Ingred Fonseca de Almeida
    - Emily Lopes Almeida
-4. **Façam exemplos no papel** (UFV - Viçosa)
+2. **Façam exemplos no papel** (UFV - Viçosa)
    - Gabriel Moreira Marques	
    - Ana Laura Tavares Costa
    - André Nunes de Alcântara
-5. **Até que durou** (UFV - Viçosa)
-   - João Vitor De Melo Machado	
-   - Lidson Oliveira	
-   - Thierry Stofel Driusso
-6. **Mindeste** (UFV - Viçosa)
-   - Luísa Ferreira 	 	
-   - Felipe Ferreira
-   - Lademir Rodrigues 
-7. **CPPOCS** (UFV - Viçosa)
-   - João Lucas Silva Solano 		
-   - Patrick de Angeli Almeida
-   - Igor Brasiliano
-8. **Kurisu** (UFV - Viçosa)
-   - Caio Sanches 	 	
-   - Ana Beatriz Ansaloni Dias
-   - Lucas Delgado
-9. **O diabo veste Java** (UFV - Florestal)
+3. **O diabo veste Java** (UFV - Florestal)
    - Júlia Costa de Faria		
    - Melissa Araújo
    - Ana Clara Antunes Rocha
-10. **New School** (CEFET - Leopoldina)
-   - Lukas Julius Wolf		
-   - Richard Coelho Gomes
-   - Wendell Reis Milani Matias
-11. **Trio Última Hora** (UFV - Viçosa)
-   - Tálles de Sousa Costa	
-   - Juan Santos Freire	
-   - Raianny Leticia Ferreira de Amorim
-12. **Name = None** (UFV - Viçosa)
+4. **CPPOCS** (UFV - Viçosa)
+   - João Lucas Silva Solano 		
+   - Patrick de Angeli Almeida
+   - Igor Brasiliano
+5. **me leva pra Itália, dedé!!** (UFV - Viçosa)
+   - Bruno Alencar Vieira de Rezende
+   - Samuel Raimundo Lopes Pinto
+   - Erick Soares de Souza
+6. **Name = None** (UFV - Viçosa)
    - Leonardo Porto	
    - Lívia Couto
    - Saulo Henrique Barbosa
-13. **Uno de escada** (UFV - Viçosa)
-   - Hygor de Oliveira Souza	
-   - Anderson Gabriel Souza Rosario 
-14. **Oktoplus: Old School** (CEFET - Leopoldina)
+7. **Oktoplus: Old School** (CEFET - Leopoldina)
    - Isabelly Araújo Temoteo		
    - Henrique Campos Junqueira
    - Vinícius Lima Fernandes
+8. **New School** (CEFET - Leopoldina)
+   - Lukas Julius Wolf		
+   - Richard Coelho Gomes
+   - Wendell Reis Milani Matias
+9. **RSX** (UFV - Viçosa)
+   - Henrique Campos Padula		
+   - Cecília Cassab Prieto
+   - Nicolas Eliel dos Reis Silva
+10. **Trio Última Hora** (UFV - Viçosa)
+   - Tálles de Sousa Costa	
+   - Juan Santos Freire	
+   - Raianny Leticia Ferreira de Amorim
+11. **Até que durou** (UFV - Viçosa)
+   - João Vitor De Melo Machado	
+   - Lidson Oliveira	
+   - Thierry Stofel Driusso
+12. **Mindeste** (UFV - Viçosa)
+   - Luísa Ferreira 	 	
+   - Felipe Ferreira
+   - Lademir Rodrigues 
+13. **Kurisu** (UFV - Viçosa)
+   - Caio Sanches 	 	
+   - Ana Beatriz Ansaloni Dias
+   - Lucas Delgado
+14. **Uno de escada** (UFV - Viçosa)
+   - Hygor de Oliveira Souza	
+   - Anderson Gabriel Souza Rosario 
 
 ## Resultado
 
