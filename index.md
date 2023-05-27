@@ -10,7 +10,7 @@ carousels:
     - image: /assets/images/IMG_8987.jpg
     - image: /assets/images/IMG_8963.jpg
     - image: /assets/images/IMG_8940.jpg
-    - image: /assets/images/IMG_8948.jpg
+    - image: /assets/images/IMG_8975.jpg
 ---
 
 {% include carousel.html height="40" unit="%" duration="10" number="1" %}
