@@ -3,9 +3,17 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+carousels:
+  - images: 
+    - image: /assets/images/IMG_8958.jpg
+    - image: /assets/images/IMG_9016.jpg
+    - image: /assets/images/IMG_8987.jpg
+    - image: /assets/images/IMG_8963.jpg
+    - image: /assets/images/IMG_8940.jpg
+    - image: /assets/images/IMG_8948.jpg
 ---
 
-<img class="main-photo" src="{{'/assets/images/dpi_picture3.jpg' | relative_url}}">
+{% include carousel.html height="40" unit="%" duration="10" number="1" %}
 
 <div class="site-footer-ufv">
     <div>
