@@ -5,15 +5,15 @@
 layout: page
 carousels:
   - images: 
-    - image: /assets/images/IMG_8958.jpg
-    - image: /assets/images/IMG_9016.jpg
-    - image: /assets/images/IMG_8987.jpg
-    - image: /assets/images/IMG_8963.jpg
-    - image: /assets/images/IMG_8940.jpg
-    - image: /assets/images/IMG_8975.jpg
+    - image: /assets/images/si2022/IMG_8958.jpg
+    - image: /assets/images/si2022/IMG_9016.jpg
+    - image: /assets/images/si2022/IMG_8987.jpg
+    - image: /assets/images/si2022/IMG_8963.jpg
+    - image: /assets/images/si2022/IMG_8940.jpg
+    - image: /assets/images/si2022/IMG_8975.jpg
 ---
 
-{% include carousel.html height="40" unit="%" duration="5" number="1" %}
+{% include carousel.html height="40" unit="%" duration="5si2022/" number="1" %}
 
 <div class="site-footer-ufv">
     <div>

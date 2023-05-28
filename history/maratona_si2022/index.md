@@ -7,7 +7,7 @@ semester: 2022
 hours: 18:00 - 22:00
 room: CCE416
 date: 18 de maio de 2023 (quinta-feira)
-photo: /assets/images/dpi_picture.jpg
+photo: /assets/images/si2022/IMG_8958.jpg
 ---
 
 ## **Introdução**

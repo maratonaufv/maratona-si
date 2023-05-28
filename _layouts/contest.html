@@ -18,27 +18,25 @@
     </head>
 
     <body>
+        <main class="page-content wrapper" aria-label="Content">
+            <div class="wrapper">
+                <div class="contest-header">
+                    <h1 class="contest-title">{{page.contest}} {{page.semester}}</h>
+                    <h3 class="contest-subtitle">{{page.department}}<br>{{page.university}}</h3>
+                </div>
+        
+                <div class="contest-info">
+                    <ul>
+                        <li><b>Horário:</b> {{page.hours}}</li>
+                        <li><b>Data:</b> {{page.date}}</li>
+                        <li><b>Local:</b> {{page.room}} </li>
+                    </ul>
+                </div>
 
-    <main class="page-content wrapper" aria-label="Content">
-        <div class="wrapper">
-            <div class="contest-header">
-                <h1 class="contest-title">{{page.contest}} {{page.semester}}</h>
-                <h3 class="contest-subtitle">{{page.department}}<br>{{page.university}}</h3>
-            </div>
-    
-            <div class="contest-info">
                 <img class="contest-photo" src="{{page.photo | relative_url}}">
 
-                <ul>
-                    <li><b>Horário:</b> {{page.hours}}</li>
-                    <li><b>Data:</b> {{page.date}}</li>
-                    <li><b>Local:</b> {{page.room}} </li>
-                </ul>
+                {{ content }}
             </div>
-
-            {{ content }}
-        </div>
-    </main>
-
+        </main>
     </body>
 </html>
