@@ -13,7 +13,7 @@ carousels:
     - image: /assets/images/IMG_8975.jpg
 ---
 
-{% include carousel.html height="40" unit="%" duration="10" number="1" %}
+{% include carousel.html height="40" unit="%" duration="5" number="1" %}
 
 <div class="site-footer-ufv">
     <div>
