@@ -4,7 +4,7 @@ title: Sobre
 permalink: /sobre/
 ---
 
-A Maratona de Programação da Semana de Informática (SI) do [Departamento de Informática](https://www2.dpi.ufv.br/) (DPI) da [Universidade Federal de Viçosa](https://www.ufv.br/) (UFV) é um evento de extensão que acontece anualmente desde 2019 como parte da Semana de Informática (SI) do curso de Ciência da Computação.
+A Maratona de Programação da Semana de Informática (SI) do [Departamento de Informática](https://www2.dpi.ufv.br/) (DPI) da [Universidade Federal de Viçosa](https://www.ufv.br/) (UFV) é um evento de extensão que acontece anualmente desde 2018 como parte da Semana de Informática (SI) do curso de Ciência da Computação.
 
 
 # Objetivo
