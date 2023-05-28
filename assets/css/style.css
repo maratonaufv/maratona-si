@@ -74,6 +74,11 @@ a:active {
     font-weight: bold;
 }
 
+.post-content {
+    max-width: 800px;
+    width: 100%
+}
+
 .site-footer-ufv {
     display: flex;
     align-items: center;
