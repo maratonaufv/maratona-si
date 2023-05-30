@@ -20,7 +20,7 @@ carousels:
         <a href="https://www.ufv.br"><img class="logo" src="{{'/assets/images/ufv_logo.png' | relative_url}}"></a>
     </div>
 
-    <div>
+    <div class="footer-title">
         <h1>Maratona de Programação da Semana de Informática</h1>
         <h2>Universidade Federal de Viçosa</h2>
     </div>
