@@ -13,7 +13,7 @@ carousels:
     - image: /assets/images/si2022/IMG_8975.jpg
 ---
 
-{% include carousel.html height="40" unit="%" duration="5si2022/" number="1" %}
+{% include carousel.html height="40" unit="%" duration="3" number="1" %}
 
 <div class="site-footer-ufv">
     <div>
