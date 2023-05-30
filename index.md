@@ -16,12 +16,12 @@ carousels:
 {% include carousel.html height="40" unit="%" duration="3" number="1" %}
 
 <div class="site-footer-ufv">
-    <div>
-        <a href="https://www.ufv.br"><img class="logo" src="{{'/assets/images/ufv_logo.png' | relative_url}}"></a>
-    </div>
-
     <div class="footer-title">
         <h1>Maratona de Programação da Semana de Informática</h1>
         <h2>Universidade Federal de Viçosa</h2>
+    </div>
+
+    <div>
+        <a href="https://www.ufv.br"><img class="logo" src="{{'/assets/images/ufv_logo.png' | relative_url}}"></a>
     </div>
 </div>
