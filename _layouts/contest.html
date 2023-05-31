@@ -36,6 +36,19 @@
                 <img class="contest-photo" src="{{page.photo | relative_url}}">
 
                 {{ content }}
+
+                <!-- sponsors -->
+                {% if page.sponsors %}
+                    <h2><b>Patrocinadores</b></h2>
+
+                    <div class="contest-sponsors">
+                        {% for item in page.sponsors %}
+                            <div>
+                                <a href="{{ item.url }}"><img src="{{item.image | relative_url}}"></a>
+                            </div>
+                        {% endfor %}
+                    </div>
+                {% endif %}
             </div>
         </main>
     </body>

@@ -4,10 +4,19 @@ university: Universidade Federal de Viçosa
 department: Departamento de Informática
 contest: V Maratona de Progamação</br>Semana de Informática
 semester: 2022
+date: 18 de maio de 2023 (quinta-feira)
 hours: 18:00 - 22:00
 room: CCE416
-date: 18 de maio de 2023 (quinta-feira)
 photo: /assets/images/si2022/IMG_8958.jpg
+problems: /history/maratona_si2022/maratonaSI22.pdf
+solutions: /history/maratona_si2022/maratonaSI22-sol.pdf
+sponsors:
+   - url: https://levty.com/br
+     image: /history/maratona_si2022/sponsors/levty_logo.png
+   - url: https://www.sydle.com/br
+     image: /history/maratona_si2022/sponsors/sydle_logo.png
+   - url: https://ciandt.com
+     image: /history/maratona_si2022/sponsors/ciandt-logo.png
 ---
 
 ## **Introdução**
@@ -37,8 +46,8 @@ Os organizadores contaram com a ajuda dos seguintes alunos de graduação do cur
 
 A prova continha 11 problemas, todos desenvolvidos pelos professores André Gustavo dos Santos e Salles Viana Gomes de Magalhães, do DPI. 
 
-- [Caderno de Questões]({{'/history/maratona_si2022/maratonaSI22.pdf' | relative_url}})
-- [Discussão de Soluções]({{'/history/maratona_si2022/maratonaSI22-sol.pdf' | relative_url}})
+- [Caderno de Questões]({{ page.problems | relative_url}})
+- [Discussão de Soluções]({{ page.solutions | relative_url}})
 
 ## **Times Participantes**
 
@@ -108,18 +117,3 @@ Os três melhores colocados foram os seguintes:
 O melhor time visitante foi o **/* */**, com 6 problemas resolvidos.
 
 O melhor time cursando INF110 - Programação 1 foi o **Até que durou**, com 6 problemas resolvidos.
-
-## **Patrocinadores**
-
-<div class="contest-sponsors">
-
-   <div>
-      <a href="https://levty.com/br"><img src="{{'/history/maratona_si2022/sponsors/levty_logo.png' | relative_url}}"></a>
-   </div>
-      <div>
-      <a href="https://www.sydle.com/br/"><img src="{{'/history/maratona_si2022/sponsors/sydle_logo.png' | relative_url}}"></a>
-   </div>
-   <div>
-      <a href="https://ciandt.com/"><img src="{{'/history/maratona_si2022/sponsors/ciandt-logo.png' | relative_url}}"></a>
-   </div>
-</div>

@@ -7,12 +7,14 @@ semester: 2021
 hours: 15:00 - 19:00
 room: Remoto
 date: 06 de Novembro de 2021
+problems: /history/maratona_si2021/maratonaSI21.pdf
+solutions: /history/maratona_si2021/maratonaSI21-sol.pdf
 # photo: /assets/images/si2022/IMG_8958.jpg
 ---
 
 ## **Introdução**
 
-A IV Maratona de Progamação da Semana de Informática ocorreu de maneira remota devido à pandemia de COVID19. A competição teve 17 times inscritos, sendo que 12 times eram da UFV - Viçosa e 5 times eram visitantes, com 1 time da UFV - Florestal, 2 times da UFMG e 2 times da UFES - São Mateus. A prova teve duração de 4 horas.  
+A IV Maratona de Progamação da Semana de Informática ocorreu de maneira remota devido à pandemia de COVID19. A competição teve 17 times inscritos, sendo 12 da UFV - Viçosa e 5 visitantes, com 1 time da UFV - Florestal, 2 da UFMG e 2 da UFES - São Mateus. A prova teve duração de 4 horas.  
 
 ## **Organizadores**
 
@@ -25,8 +27,8 @@ O evento foi organizado pelos seguintes professores do [Departamento de Informá
 
 A prova continha 10 problemas, todos desenvolvidos pelos professor Salles Viana Gomes de Magalhães, do DPI. 
 
-- [Caderno de Questões]({{'/history/maratona_si2021/maratonaSI21.pdf' | relative_url}})
-- [Discussão de Soluções]({{'/history/maratona_si2021/maratonaSI21-sol.pdf' | relative_url}})
+- [Caderno de Questões]({{ page.problems | relative_url}})
+- [Discussão de Soluções]({{ page.solutions | relative_url}})
 
 ## **Times Participantes**
 
@@ -125,18 +127,3 @@ Os melhores times visitantes foram:
 
 O melhor time de calouros foi:
 - **PD: Programa dores**, com 4 problemas resolvidos.
-
-<!-- ## **Patrocinadores**
-
-<div class="contest-sponsors">
-
-   <div>
-      <a href="https://levty.com/br"><img src="{{'/history/maratona_si2022/sponsors/levty_logo.png' | relative_url}}"></a>
-   </div>
-      <div>
-      <a href="https://www.sydle.com/br/"><img src="{{'/history/maratona_si2022/sponsors/sydle_logo.png' | relative_url}}"></a>
-   </div>
-   <div>
-      <a href="https://ciandt.com/"><img src="{{'/history/maratona_si2022/sponsors/ciandt-logo.png' | relative_url}}"></a>
-   </div>
-</div> -->
