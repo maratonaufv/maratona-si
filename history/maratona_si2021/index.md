@@ -12,11 +12,11 @@ date: 06 de Novembro de 2021
 
 ## **Introdução**
 
-A IV Maratona de Progamação Semana de Informática estava ocorreu de maneira remota devido à pandemia de COVID19. A competição teve 17 times inscritos, sendo que 12 times eram da UFV - Viçosa e 5 times eram visitantes, com 1 time da UFV - Florestal, 2 times da UFMG e 2 time UFES - São Mateus. A prova teve duração de 4 horas.  
+A IV Maratona de Progamação da Semana de Informática ocorreu de maneira remota devido à pandemia de COVID19. A competição teve 17 times inscritos, sendo que 12 times eram da UFV - Viçosa e 5 times eram visitantes, com 1 time da UFV - Florestal, 2 times da UFMG e 2 time UFES - São Mateus. A prova teve duração de 4 horas.  
 
 ## **Organizadores**
 
-O evento foi organizado pelos seguides professores do [Departamento de Informática](https://www2.dpi.ufv.br/) (DPI) da UFV:
+O evento foi organizado pelos seguintes professores do [Departamento de Informática](https://www2.dpi.ufv.br/) (DPI) da UFV:
 
 - André Gustavo dos Santos
 - Salles Viana Gomes de Magalhães

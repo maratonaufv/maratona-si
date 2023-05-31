@@ -12,17 +12,17 @@ photo: /assets/images/si2022/IMG_8958.jpg
 
 ## **Introdução**
 
-A V Maratona de Progamação Semana de Informática estava inicialmente prevista para ocorrer durante a Semana de Informática de 2022, porém, devido ao grande número de provas que os alunos estavam tendo na época, ela foi adiada para o primeiro semestre de 2023. A competição teve 14 times inscritos, sendo que 10 times eram da UFV - Viçosa e 4 times eram visitantes, com 2 times da UFV - Florestal e 2 times do CEFET - Leopoldina. A prova teve duração de 3 horas, sendo que os 10 times da UFV - Viçosa realizaram a prova presencialmente na sala CCE416 do prédio do Centro de Ciências Exatas, no campus Viçosa, e os demais times realizaram a prova remotamente.  
+A V Maratona de Progamação da Semana de Informática estava inicialmente prevista para ocorrer durante a Semana de Informática de 2022, porém, devido ao grande número de provas que os alunos estavam tendo na época, ela foi adiada para o primeiro semestre de 2023. A competição teve 14 times inscritos, sendo que 10 times eram da UFV - Viçosa e 4 times eram visitantes, com 2 times da UFV - Florestal e 2 times do CEFET - Leopoldina. A prova teve duração de 3 horas, sendo que os 10 times da UFV - Viçosa realizaram a prova presencialmente na sala CCE416 do prédio do Centro de Ciências Exatas, no campus Viçosa, e os demais times realizaram a prova remotamente.  
 
 ## **Organizadores**
 
-O evento foi organizado pelos seguides professores do [Departamento de Informática](https://www2.dpi.ufv.br/) (DPI) da UFV:
+O evento foi organizado pelos seguintes professores do [Departamento de Informática](https://www2.dpi.ufv.br/) (DPI) da UFV:
 
 - André Gustavo dos Santos
 - Lucas N. Ferreira
 - Salles Viana Gomes de Magalhães
 
-Os organizadores contaram com a ajuda dos seguindes alunos de graduação do curso de Ciência da Computação da UFV - Viçosa:
+Os organizadores contaram com a ajuda dos seguintes alunos de graduação do curso de Ciência da Computação da UFV - Viçosa:
 
 - Vitória Maria Ferreira de Oliveira
 - Alice Silva Mendonça
