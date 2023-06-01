@@ -110,9 +110,9 @@ A prova continha 11 problemas, todos desenvolvidos pelos professores André Gust
 ## **Resultado**
 
 Os três melhores colocados foram os seguintes:
-- 1<sup>o</sup>  lugar: time **me leva pra Itália, dedé!!**, 8 problemas resolvidos.
-- 2<sup>o</sup>  lugar: time **RSX**, 7 problemas resolvidos.
-- 3<sup>o</sup>  lugar: time **Façam exemplos no papel**, 6 problemas resolvidos.
+- 1<sup>o</sup>  lugar - time **me leva pra Itália, dedé!!**, 8 problemas resolvidos - prêmio de R$3000 da Sydle.
+- 2<sup>o</sup>  lugar - time **RSX**, 7 problemas resolvidos.
+- 3<sup>o</sup>  lugar - time **Façam exemplos no papel**, 6 problemas resolvidos.
 
 O melhor time visitante foi o **/* */**, com 6 problemas resolvidos.
 
