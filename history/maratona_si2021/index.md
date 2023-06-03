@@ -2,7 +2,7 @@
 layout: contest
 university: Universidade Federal de Viçosa
 department: Departamento de Informática
-contest: IV Maratona de Progamação</br>Semana de Informática
+contest: IV Maratona de Programação</br>Semana de Informática
 semester: 2021
 hours: 15:00 - 19:00
 room: Remoto
@@ -14,7 +14,7 @@ solutions: /history/maratona_si2021/maratonaSI21-sol.pdf
 
 ## **Introdução**
 
-A IV Maratona de Progamação da Semana de Informática ocorreu de maneira remota devido à pandemia de COVID19. A competição teve 17 times inscritos, sendo 12 da UFV - Viçosa e 5 visitantes, com 1 time da UFV - Florestal, 2 da UFMG e 2 da UFES - São Mateus. A prova teve duração de 4 horas.  
+A IV Maratona de Programação da Semana de Informática ocorreu de maneira remota devido à pandemia de COVID19. A competição teve 17 times inscritos, sendo 12 da UFV - Viçosa e 5 visitantes, com 1 time da UFV - Florestal, 2 da UFMG e 2 da UFES - São Mateus. A prova teve duração de 4 horas.  
 
 ## **Organizadores**
 

@@ -2,7 +2,7 @@
 layout: contest
 university: Universidade Federal de Viçosa
 department: Departamento de Informática
-contest: III Maratona de Progamação</br>Semana de Informática
+contest: III Maratona de Programação</br>Semana de Informática
 semester: 2020
 date: 08 de Novembro de 2020
 hours: 15:00 - 19:00
@@ -19,7 +19,7 @@ sponsors:
 
 ## **Introdução**
 
-A III Maratona de Progamação da Semana de Informática ocorreu de maneira remota devido à pandemia de COVID19. A competição teve 20 times inscritos, sendo 13 da UFV - Viçosa e 7 visitantes, com 1 da UFV - Florestal, 1 do COLUNI, 3 da UFES - São Mateus e 2 de ex-alunos da UFV - Viçosa. A prova teve duração de 4 horas.  
+A III Maratona de Programação da Semana de Informática ocorreu de maneira remota devido à pandemia de COVID19. A competição teve 20 times inscritos, sendo 13 da UFV - Viçosa e 7 visitantes, com 1 da UFV - Florestal, 1 do COLUNI, 3 da UFES - São Mateus e 2 de ex-alunos da UFV - Viçosa. A prova teve duração de 4 horas.  
 
 ## **Organizadores**
 
