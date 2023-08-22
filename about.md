@@ -21,8 +21,8 @@ A Maratona de Programação da SI segue as regras da [Maratona SBC de Programaç
 - Cada questão é associada a um balão de uma determinada cor. Sempre que um time resolve uma questão, ele recebe um balão (virtual, no sistema de submissão, e real, que é pendurado ao lado do computador do time) daquela cor;
 - Cada time tem acesso a apenas um computador e não pode usar a Internet de forma alguma, a não ser para acessar o sistema de submissão de soluções (única e exclusivamente pelo login do time);
 - É disponibilizada uma impressora para que os times imprimam códigos parciais;
-- É permitido levar qualquer material impresso e também digital (em um pendrive, que deve ser copiado para o computador do time antes do início da maratona);
-- Os times terão acesso ao placar durante a competição, mas ele deixará de ser atualizado faltando 30 minutos para o final (período frozen) e não receberão respostas do julgamento das submissões faltando 15 minutos para o final (período blind).
+- Os times terão acesso ao placar durante a competição, mas ele deixará de ser atualizado faltando 30-45 minutos para o final (período frozen) e não receberão respostas do julgamento das submissões faltando 15 minutos para o final (período blind).
+- **Adicionalmente**, é permitido levar qualquer material impresso e também digital (em um pendrive, que deve ser copiado para o computador do time antes do início da maratona);
 
 # Sistema de Submissão e Avaliação 
 
