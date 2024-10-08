@@ -19,7 +19,7 @@ carousels:
 
 ## Avisos
 
-- **As inscrições para a VII Maratona da SI estão abertas!**
+<!-- - **As inscrições para a VII Maratona da SI estão abertas!** -->
 - A VII Maratona da SI será realizada na Semana de Informática de 2024, no dia 19 de Outubro
 
 </div>
