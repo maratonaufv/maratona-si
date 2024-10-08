@@ -15,7 +15,15 @@
             <nav>
                 <ul>
                     {% for item in site.data.navigation %}
-                    <li><a href="{{ item.link | relative_url }}" {% if page.url == item.link %}class="active"{% endif %}>{{ item.name }}</a></li>
+                    {% assign current_url = page.url | remove: '.html' %}
+                    <li>
+                        <a href="{{ item.link | relative_url }}" 
+                           {% if current_url == item.link or (current_url != '/' and current_url contains item.link and item.link != '/') %}
+                             class="active"
+                           {% endif %}>
+                            {{ item.name }}
+                        </a>
+                    </li>
                     {% endfor %}
                 </ul>
             </nav>

@@ -48,7 +48,7 @@ header h3 {
 
 /* Navigation styles */
 nav {
-  margin-top: 40px;
+  margin-top: 15px;
   margin-bottom: 10px;
   position: relative;
 }
@@ -92,12 +92,16 @@ nav ul li a {
   padding: 5px 0;
   display: inline-block;
   font-weight: 300;
-  font-size: 1em;
+  transition: color 0.3s ease;
 }
 
+/* nav ul li a:hover {
+  color: #3498db;
+} */
+
 nav ul li a.active {
-  font-weight: bold;
-  color: #e74c3c; /* or any color you prefer for the active item */
+  color: #e74c3c;
+  font-weight: 400;
 }
 
 /* Main content styles */
