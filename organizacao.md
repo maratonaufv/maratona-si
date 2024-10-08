@@ -1,8 +1,9 @@
 ---
-layout: page
-title: Contato
-permalink: /contato/
+layout: default
+title: Organização
 ---
+
+## Organização
 
 Atualmente, a Maratona de Programação da Semana de Informática é organizada pelos seguintes professores do Departamento de Informática da UFV:
 

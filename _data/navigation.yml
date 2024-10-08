@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: Regras
+  link: /regras
+- name: Organização
+  link: /organizacao
+- name: Edições Anteriores
+  link: /edicoes

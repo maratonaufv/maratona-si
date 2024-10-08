@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>{{ site.title }}</h1>
+            <h2>{{ site.description }}</h2>
+            <h3>{{ site.workshop_date }}</h3>
+            <nav>
+                <ul>
+                    {% for item in site.data.navigation %}
+                    <li><a href="{{ item.link | relative_url }}" {% if page.url == item.link %}class="active"{% endif %}>{{ item.name }}</a></li>
+                    {% endfor %}
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            {{ content }}
+        </main>
+    </div>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>{{ site.title }}</h3>
+                    <p>Redes Sociais do Departamento de Informática</p>
+                    <div class="social-icons">
+                        <a href="https://www.youtube.com/channel/{{ site.youtube_channel }}" class="youtube-icon">YouTube</a>
+                        <a href="https://twitter.com/{{ site.twitter_username }}" class="twitter-icon">Twitter</a>
+                    </div>
+                </div>
+                <div class="footer-section sitemap">
+                    <h4>Mapa do Site</h4>
+                    <ul>
+                        {% for item in site.data.navigation limit:4 %}
+                        <li><a href="{{ item.link | relative_url }}">{{ item.name }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+            <p class="copyright">Departamento de Informática</p>
+            <p class="github-link">Universidade Federal de Viçosa</p>
+        </div>
+    </footer>
+</body>
+</html>

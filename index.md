@@ -1,8 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: Home
 carousels:
   - images: 
     - image: /assets/images/si2022/IMG_8958.jpg
@@ -13,15 +11,21 @@ carousels:
     - image: /assets/images/si2022/IMG_8975.jpg
 ---
 
+<!-- ## O que é a Maratona da SI? -->
+
 {% include carousel.html height="40" unit="%" duration="3" number="1" %}
 
-<div class="site-footer-ufv">
-    <div class="footer-title">
-        <h1>Maratona de Programação da Semana de Informática</h1>
-        <h2>Universidade Federal de Viçosa</h2>
-    </div>
+<div class="announcement-board" markdown="1">
 
-    <div>
-        <a href="https://www.ufv.br"><img class="logo" src="{{'/assets/images/ufv_logo.png' | relative_url}}"></a>
-    </div>
+## Avisos
+
+- **As inscrições para a VII Maratona da SI estão abertas!**
+- A VII Maratona da SI será realizada na Semana de Informática de 2024, no dia 19 de Outubro
+
 </div>
+
+<!-- ## Objetivo -->
+
+A Maratona de Programação da Semana de Informática (SI) do Departamento de Informática (DPI) da Universidade Federal de Viçosa (UFV) é um evento de extensão que acontece anualmente desde 2018 como parte da Semana de Informática (SI) do curso de Ciência da Computação.
+
+O objetivo desse evento é criar um espaço descontraído para que os alunos desenvolvam suas capacidades de resolução de problemas computacionais complexos. Além disso, a Maratona de Programação da SI é uma excelente porta de entrada para alunos interessados em participar de maratonas maiores, como a Maratona Mineira de Programação da SBC, a Maratona SBC de Programação e a International Collegiate Programming Contest (ICPC).
