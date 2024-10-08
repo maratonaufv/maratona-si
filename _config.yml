@@ -1,8 +1,14 @@
 # Site settings
 title: Maratona da SI 2024
 description: Universidade Federal de Viçosa
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+domain: lucasnfe.github.io   # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://lucasnfe.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: maratona-ufv            # place folder name if the site is served in a subfolder
+
+lsi: false
+safe: true
+source: maratona-ufv
+incremental: false
 
 # Workshop date
 workshop_date: 17 de Outubro de 2024
