@@ -7,7 +7,7 @@ semester: 2024
 date: 17 de outubro de 2024
 hours: 18:15 - 22:15
 room: CCE414/416
-# photo: /assets/images/si2024/IMG_0669.jpg
+photo: /assets/images/si2024/IMG_0669.jpg
 problems: /history/maratona_si2024/maratonaSI24.pdf
 solutions: /history/maratona_si2024/maratonaSI24-sol.pdf
 sponsors:
