@@ -20,7 +20,7 @@ carousels:
 ## Avisos
 
 <!-- - **As inscrições para a VIII Maratona da SI estarão abertas em breve!** -->
-- A VIII Maratona da SI será realizada no dia 27 de Agosto como parte da Semana de Informática de 2025.
+- A VIII Maratona da SI será realizada no dia 27 de agosto como parte da Semana de Informática de 2025.
 
 </div>
 
