@@ -2,7 +2,7 @@
 layout: contest
 university: Universidade Federal de Viçosa
 department: Departamento de Informática
-contest: VI Maratona de Programação</br>Semana de Informática
+contest: VII Maratona de Programação</br>Semana de Informática
 semester: 2024
 date: 17 de outubro de 2024
 hours: 18:15 - 22:15
