@@ -1,13 +1,13 @@
 # Site settings
 title: Maratona da SI 2024
 description: Universidade Federal de Viçosa
-domain: lucasnfe.github.io   # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://lucasnfe.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: maratona-ufv            # place folder name if the site is served in a subfolder
+domain: maratonaufv.github.io   # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://maratonaufv.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: maratona-si            # place folder name if the site is served in a subfolder
 
 lsi: false
 safe: true
-source: maratona-ufv
+source: maratona-si
 incremental: false
 
 # Workshop date
