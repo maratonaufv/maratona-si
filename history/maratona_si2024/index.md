@@ -2,7 +2,7 @@
 layout: contest
 university: Universidade Federal de Viçosa
 department: Departamento de Informática
-contest: II Maratona de Programação</br>Semana de Informática
+contest: VI Maratona de Programação</br>Semana de Informática
 semester: 2024
 date: 17 de outubro de 2024
 hours: 18:15 - 22:15
@@ -24,19 +24,23 @@ sponsors:
 A VII Maratona de Programação da Semana de Informática ocorreu durante a Semana de Informática de 2024 e contou com a participação de 21 times, sendo 16 times formados por alunos de graduação da UFV Viçosa e 5 times de visitantes: 3 da UFV Florestal, 1 da UFSJ e 1 de ex-alunos. A prova teve duração de 4 horas, sendo que os times de Florestal e de São João del Rei fizeram a prova remotamente e os demais presencialmente nos Laboratórios da Pós-Graduação (CCE414) e Laboratório de Ensino e Extensão (CCE416) do Departamento de Informática.
 
 
+<!--
 ## **Organizadores**
 
 O evento foi organizado pelos seguintes professores do [Departamento de Informática](https://www2.dpi.ufv.br/) (DPI) da UFV:
 
 - André Gustavo dos Santos
 - Salles Viana Gomes de Magalhães
+-->
 
 ## **Problemas**
 
-A prova continha 12 problemas, todos desenvolvidos pelos professores André Gustavo dos Santos e Salles Viana Gomes de Magalhães, do DPI. 
+A prova continha 12 problemas, desenvolvidos pelos professores André Gustavo dos Santos e Salles Viana Gomes de Magalhães, e pelos ex-maratonistas da UFV Dener Vieira Ribeiro, Matheus Aguilar de Oliveira, Natan Seabra Garcias e Samuel Raimundo Lopes Pinto. 
 
 - [Caderno de Questões]({{ page.problems | relative_url}})
 - [Discussão de Soluções]({{ page.solutions | relative_url}})
+
+A prova está disponível para solução no [Codeforces](https://codeforces.com/group/ZUukhOS6Bj/contest/559497).
 
 ## **Times Participantes**
 - **até cubanos** (UFV - Viçosa)
@@ -133,7 +137,7 @@ A prova continha 12 problemas, todos desenvolvidos pelos professores André Gust
     - Eduarda Anaely Suar Borges
     - Pamela Lucia Lara Diniz
 
-- __ *sanidade = NULL__ (UFV - Florestal)
+- __*sanidade = NULL__ (UFV - Florestal)
     - Aléxia Karoline Augusta Germano Silva
     - Ana Luísa Moreira Rodrigues
     - Maria Eduarda Oliveira Garcia Andrade
@@ -155,7 +159,7 @@ Os três melhores colocados de graduação da UFV Viçosa foram os seguintes:
 - 3<sup>o</sup>  lugar -  time **travelling SALLESmen problem**, 7 problemas resolvidos - prêmio de R$300 da Cientec
 
 O melhor time visitante foi: 
-- **/**/** (UFV Florestal), com 7 problemas resolvidos
+- __*sanidade = NULL__ (UFV Florestal), com 5 problemas resolvidos
 
-O melhor time de calouros (ainda cursando Programação II)  foi o **Bonde da capivara**, com prêmio de R$100 da Cientec), seguido pelo **NãoSeiProgramar**.
+O melhor time de calouros (ainda cursando Programação II)  foi o **Bonde da capivara**, com prêmio de R$100 da Cientec, seguido pelo **NãoSeiProgramar**.
 
