@@ -48,7 +48,7 @@ A prova continha 12 problemas, todos desenvolvidos pelos professores André Gust
     - Matheus Otávio Lisboa
     - Sofia Souza Luiz
 
-- **cemitério dos homens de lata (UFV - Viçosa)
+- **cemitério dos homens de lata** (UFV - Viçosa)
     - José Roberto Martins Costa Júnior
     - Arthur Martins Maximo do Monte
     - Henrique Resende Silva
@@ -103,7 +103,7 @@ A prova continha 12 problemas, todos desenvolvidos pelos professores André Gust
     - João Pedro Medrado Sena
     - João Pedro Pulz de Oliveira
 
-- **Uno de escada (UFV - Viçosa)
+- **Uno de escada** (UFV - Viçosa)
     - Anderson Gabriel Souza Rosario
     - Hygor de Oliveira Souza
     - Victor Hugo de Souza Singulani Ragazzi
@@ -113,7 +113,7 @@ A prova continha 12 problemas, todos desenvolvidos pelos professores André Gust
     - Júlio Henrique Fonseca Rodrigues
     - Guilherme Augusto de Rocha Figueiredo 
 
-- **Verilovers (UFV - Viçosa)
+- **Verilovers** (UFV - Viçosa)
     - Natascha Siqueira Martinez Palhares
     - Pedro Fiorio Baldotto
     - André Luiz Feijó dos Santos
@@ -123,7 +123,7 @@ A prova continha 12 problemas, todos desenvolvidos pelos professores André Gust
     - Lademir Junior
     - Felipe Ferreira
 
-- **/**/** (UFV - Florestal)
+- __/**/__ (UFV - Florestal)
     - Paulo Henrique
     - Ingred Fonseca
     - Emily Lopes
@@ -141,6 +141,6 @@ Os três melhores colocados de graduação da UFV Viçosa foram os seguintes:
 - 3<sup>o</sup>  lugar -  time **Cadê o Coffee Break?**, 8 problemas resolvidos - ??
 
 O melhor time visitante foi: 
-- **/**/** (UFV Florestal), com 7 problemas resolvidos
+- __/**/__ (UFV Florestal), com 7 problemas resolvidos
 
 O melhor time de calouros (ainda cursando Programação II)  foi o **Deadbool**, seguido pelo **O importante é compilar** .
