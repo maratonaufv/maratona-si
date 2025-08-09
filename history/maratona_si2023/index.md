@@ -41,7 +41,7 @@ A prova continha 12 problemas, todos desenvolvidos pelos professores André Gust
 - **Boa sort();** (UFV - Viçosa)
     - Débora Coelho
     - Marianna Drago Verduin
-    - Lucas de oliveira mota
+    - Lucas de Oliveira mota
 
 - **Cadê o Coffee Break?** (UFV - Viçosa)
     - Erick Soares de Souza
@@ -59,7 +59,7 @@ A prova continha 12 problemas, todos desenvolvidos pelos professores André Gust
     - Geraldo Afonso Guidine Martins Padua
 
 - **Deadbool** (UFV - Viçosa)
-    - João Vitor De Melo Machado
+    - João Vitor de Melo Machado
     - Nicolas Eliel Silva
     - Leonardo Porto
 
