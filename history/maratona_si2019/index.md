@@ -148,7 +148,7 @@ A prova continha 13 problemas, todos desenvolvidos pelos professores André Gust
 Os três melhores colocados de graduação da UFV Viçosa foram os seguintes:
 - 1<sup>o</sup>  lugar - time **Free churro**, 8 problemas resolvidos - 3 cortesias de R$20 do Távola Lúdica
 - 2<sup>o</sup>  lugar -  time **For de Fluxo**, 7 problemas resolvidos - 3 latas de Doce de Leite Viçosa
-- 3<sup>o</sup>  lugar -  time **Branca de neve e as duas pocs **, 7 problemas resolvidos - 1 pizza e 3 canecas de aluminio
+- 3<sup>o</sup>  lugar -  time **Branca de neve e as duas pocs**, 7 problemas resolvidos - 1 pizza e 3 canecas de aluminio
 
 Os melhores times visitantes foram: 
 - **P = NP <=> N = 1** (Ex-alunos DPI/UFV), com 9 problemas resolvidos - campeão da maratona, cheque de R$420 da Infológica
