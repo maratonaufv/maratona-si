@@ -7,7 +7,7 @@ semester: 2023
 date: 31 de agosto de 2023
 hours: 08:30 - 12:00
 room: CCE414/416
-# photo: /assets/images/si2019/IMG_4927.jpg
+photo: /assets/images/si2023/IMG_0908.jpg
 problems: /history/maratona_si2023/maratonaSI23.pdf
 solutions: /history/maratona_si2023/maratonaSI23-sol.pdf
 # sponsors:
@@ -138,9 +138,9 @@ A prova continha 12 problemas, todos desenvolvidos pelos professores André Gust
 Os três melhores colocados de graduação da UFV Viçosa foram os seguintes:
 - 1<sup>o</sup>  lugar - time **Segundo lugar**, 9 problemas resolvidos - prêmio de R$1500 da Sydle
 - 2<sup>o</sup>  lugar -  time **Deadbool**, 8 problemas resolvidos - prêmio da Cientec: 3 sanduíches do Távola Lúdica
-- 3<sup>o</sup>  lugar -  time **Cadê o Coffee Break?**, 8 problemas resolvidos - ??
+- 3<sup>o</sup>  lugar -  time **Cadê o Coffee Break?**, 8 problemas resolvidos - Kits de doce de leite da Casa do Queijo
 
 O melhor time visitante foi: 
 - __/**/__ (UFV Florestal), com 7 problemas resolvidos
 
-O melhor time de calouros (ainda cursando Programação II)  foi o **Deadbool**, seguido pelo **O importante é compilar** .
+O melhor time de calouros foi o **Deadbool**, seguido pelo **O importante é compilar**.
