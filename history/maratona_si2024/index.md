@@ -158,8 +158,9 @@ Os três melhores colocados de graduação da UFV Viçosa foram os seguintes:
 - 2<sup>o</sup>  lugar -  time **Os últimos serão os primeiros?**, 8 problemas resolvidos - prêmio de R$600 da Cientec
 - 3<sup>o</sup>  lugar -  time **travelling SALLESmen problem**, 7 problemas resolvidos - prêmio de R$300 da Cientec
 
-O melhor time visitante foi: 
+Os melhores times visitante foram:
+- **Desoriginalizando o original** (ex-alunos), com 6 problemas resolvidos
 - __*sanidade = NULL__ (UFV Florestal), com 5 problemas resolvidos
 
-O melhor time de calouros (ainda cursando Programação II)  foi o **Bonde da capivara**, com prêmio de R$100 da Cientec, seguido pelo **NãoSeiProgramar**.
+O melhor time de calouros foi o **Bonde da capivara**, com prêmio de R$100 da Cientec, seguido pelo **NãoSeiProgramar**.
 
