@@ -36,6 +36,8 @@ A prova continha 12 problemas, todos desenvolvidos pelos professores André Gust
 - [Caderno de Questões]({{ page.problems | relative_url}})
 - [Discussão de Soluções]({{ page.solutions | relative_url}})
 
+A prova está disponível para solução no [Codeforces](https://codeforces.com/group/ZUukhOS6Bj/contest/559890).
+
 ## **Times Participantes**
 
 - **Boa sort();** (UFV - Viçosa)
