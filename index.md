@@ -2,7 +2,7 @@
 layout: default
 title: Home
 carousels:
-  - images: 
+  - images:
     - image: /assets/images/si2022/IMG_8958.jpg
     - image: /assets/images/si2022/IMG_9016.jpg
     - image: /assets/images/si2022/IMG_8987.jpg
@@ -19,8 +19,10 @@ carousels:
 
 ## Avisos
 
+- Os resultados da edição 2025 já estão na seção Edições anteriores!
+- A prova será disponibilizada em breve no Codeforces
 <!-- - **As inscrições para a VIII Maratona da SI estarão abertas em breve!** -->
-- A VIII Maratona da SI será realizada dia 26 de agosto, durante a Semana de Informática de 2025. Inscriçoes [aqui](https://forms.gle/cCPvAhDoCK3RvJd36).
+<!-- - A VIII Maratona da SI será realizada dia 26 de agosto, durante a Semana de Informática de 2025. Inscriçoes [aqui](https://forms.gle/cCPvAhDoCK3RvJd36). -->
 
 </div>
 
