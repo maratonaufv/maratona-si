@@ -11,8 +11,8 @@ photo: /assets/images/si2025/IMG_9880.jpg
 problems: /history/maratona_si2025/maratonaSI25.pdf
 solutions: /history/maratona_si2025/maratonaSI25-sol.pdf
 sponsors:
-  - url: https://cientec.net
-    image: /history/maratona_si2024/sponsors/cientec_logo.png
+   - url: https://cientec.net
+     image: /history/maratona_si2024/sponsors/cientec_logo.png
    - url: https://www.sydle.com/br
      image: /history/maratona_si2024/sponsors/sydle_logo.png
 ---
