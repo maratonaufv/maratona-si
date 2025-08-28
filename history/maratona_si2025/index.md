@@ -9,7 +9,7 @@ hours: 18:15 - 22:15
 room: CCE410/416
 photo: /assets/images/si2025/IMG_9880.jpg
 problems: /history/maratona_si2025/maratonaSI25.pdf
-<!-- solutions: /history/maratona_si2025/maratonaSI25-sol.pdf -->
+solutions: /history/maratona_si2025/maratonaSI25-sol.pdf
 sponsors:
   - url: https://cientec.net
     image: /history/maratona_si2024/sponsors/cientec_logo.png
@@ -37,7 +37,10 @@ O evento foi organizado pelos seguintes professores do [Departamento de Informá
 A prova continha 13 problemas, desenvolvidos pelos professores André Gustavo dos Santos e Salles Viana Gomes de Magalhães, e pelos ex-maratonistas da UFV Dener Vieira Ribeiro, Henrique Campos Padula e Samuel Raimundo Lopes Pinto.
 
 - [Caderno de Questões]({{ page.problems | relative_url}})
-- [Discussão de Soluções (em breve)]({{ page.solutions | relative_url}})
+- Discussão de Soluções (em breve)
+<!--
+- [Discussão de Soluções]({{ page.solutions | relative_url}})
+-->
 
 A prova está disponível para solução no [Codeforces](https://codeforces.com/group/ZUukhOS6Bj/contest/559497).
 
