@@ -5,6 +5,7 @@ title: Edições Anteriores
 
 ## Edições Anteriores
 
+- [VIII Maratona de Programação da SI (2025)]({{ "/history/maratona_si2025/" | relative_url }})
 - [VII Maratona de Programação da SI (2024)]({{ "/history/maratona_si2024/" | relative_url }})
 - [VI Maratona de Programação da SI (2023)]({{ "/history/maratona_si2023/" | relative_url }})
 - [V Maratona de Programação da SI (2022)]({{ "/history/maratona_si2022/" | relative_url }})
