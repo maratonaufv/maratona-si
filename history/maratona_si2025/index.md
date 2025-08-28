@@ -168,7 +168,7 @@ Os três melhores colocados de graduação da UFV Viçosa foram os seguintes:
 - 3<sup>o</sup>  lugar -  time **Cltr+3.peg**, 7 problemas resolvidos - prêmio de R$150 da Cientec
 
 O melhor time feminino foi:
-- **jumbotron 2000**, com 6 problemas resolvidos
+- **jumbotron 2000**, com 6 problemas resolvidos - prêmio kits da Sydle
 
 O melhor time visitante foi:
 - **Main(inas).c++** (CEFET-Leopoldina), com 6 problemas resolvidos
