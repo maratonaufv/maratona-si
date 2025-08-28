@@ -15,8 +15,6 @@ sponsors:
     image: /history/maratona_si2024/sponsors/cientec_logo.png
    - url: https://www.sydle.com/br
      image: /history/maratona_si2024/sponsors/sydle_logo.png
-   <!-- - url: https://www.levty.com
-     image: /history/maratona_si2024/sponsors/levty_logo.png -->
 ---
 
 ## **Introdução**
