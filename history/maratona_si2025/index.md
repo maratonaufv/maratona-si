@@ -12,12 +12,18 @@ problems: /history/maratona_si2025/maratonaSI25.pdf
 solutions: /history/maratona_si2025/maratonaSI25-sol.pdf
 sponsors:
    - url: https://cientec.net
-     image: /history/maratona_si2024/sponsors/cientec_logo.png
+     image: /history/maratona_si2025/sponsors/cientec_logo.png
+   - url: https://www.sydle.com/br
+     image: /history/maratona_si2025/sponsors/sydle_logo.png
+   - url: https://www.levty.com
+     image: /history/maratona_si2025/sponsors/levty_logo.png
+   - url: https://www.bitkaanalytics.com.br
+     image: /history/maratona_si2025/sponsors/bitka-bip_logo.png
 ---
 
 ## **Introdução**
 
-A VIII Maratona de Programação da Semana de Informática ocorreu durante a Semana de Informática de 2025 e contou com a participação de 25 times, sendo 20 times formados por alunos de graduação da UFV Viçosa e 4 times de visitantes: 4 da UFV Florestal e 1 do CEFET-Leopoldina. A prova teve duração de 4 horas, sendo que os times de Florestal e do CEFET fizeram a prova remotamente e os demais presencialmente nos Laboratórios da Pós-Graduação (CCE410) e Laboratório de Ensino e Extensão (CCE416) do Departamento de Informática.
+A VIII Maratona de Programação da Semana de Informática ocorreu durante a Semana de Informática de 2025 e contou com a participação de 25 times, sendo 20 times formados por alunos de graduação da UFV Viçosa e 4 times de visitantes: 4 da UFV Florestal e 1 do CEFET-Leopoldina. A prova teve duração de 4 horas, sendo que os times de Florestal e do CEFET fizeram a prova remotamente e os demais presencialmente nos Laboratórios de Ensino (CCE410) e de Ensino e Extensão (CCE416) do Departamento de Informática.
 
 <!--
 ## **Organizadores**
@@ -30,7 +36,7 @@ O evento foi organizado pelos seguintes professores do [Departamento de Informá
 
 ## **Problemas**
 
-A prova continha 13 problemas, desenvolvidos pelos professores André Gustavo dos Santos e Salles Viana Gomes de Magalhães, e pelos ex-maratonistas da UFV Dener Vieira Ribeiro, Henrique Campos Padula e Samuel Raimundo Lopes Pinto.
+A prova continha 13 problemas, desenvolvidos pelos professores André Gustavo dos Santos e Salles Viana Gomes de Magalhães, e pelos ex-aluunos maratonistas da UFV Dener Vieira Ribeiro, Henrique Campos Padula e Samuel Raimundo Lopes Pinto.
 
 - [Caderno de Questões]({{ page.problems | relative_url}})
 - Discussão de Soluções (em breve)
@@ -130,9 +136,9 @@ A prova está disponível para solução no [Codeforces](https://codeforces.com/
     - Caio César Oliveira Cândido
       
 - **Os Padrinhos Mágicos** (UFV-Florestal)
-    - Douglas Diones Marcelino Silva
     - Guilherme Broedel Zorzal
     - Arthur Ataíde de Melo Saraiva
+    - Douglas Diones Marcelino Silva
 
 - **Saudades Leonardo :(** (UFV-Viçosa)
     - João Vitor De Melo Machado
