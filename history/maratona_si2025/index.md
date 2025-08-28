@@ -13,13 +13,11 @@ solutions: /history/maratona_si2025/maratonaSI25-sol.pdf
 sponsors:
    - url: https://cientec.net
      image: /history/maratona_si2024/sponsors/cientec_logo.png
-   - url: https://www.sydle.com/br
-     image: /history/maratona_si2024/sponsors/sydle_logo.png
 ---
 
 ## **Introdução**
 
-A VIII Maratona de Programação da Semana de Informática ocorreu durante a Semana de Informática de 2025 e contou com a participação de 25 times, sendo 20 times formados por alunos de graduação da UFV Viçosa e 4 times de visitantes: 3 da UFV Florestal e 1 do CEFET-Leopoldina. A prova teve duração de 4 horas, sendo que os times de Florestal e do CEFET fizeram a prova remotamente e os demais presencialmente nos Laboratórios da Pós-Graduação (CCE410) e Laboratório de Ensino e Extensão (CCE416) do Departamento de Informática.
+A VIII Maratona de Programação da Semana de Informática ocorreu durante a Semana de Informática de 2025 e contou com a participação de 25 times, sendo 20 times formados por alunos de graduação da UFV Viçosa e 4 times de visitantes: 4 da UFV Florestal e 1 do CEFET-Leopoldina. A prova teve duração de 4 horas, sendo que os times de Florestal e do CEFET fizeram a prova remotamente e os demais presencialmente nos Laboratórios da Pós-Graduação (CCE410) e Laboratório de Ensino e Extensão (CCE416) do Departamento de Informática.
 
 <!--
 ## **Organizadores**
@@ -130,6 +128,11 @@ A prova está disponível para solução no [Codeforces](https://codeforces.com/
     - Fernando César Pereira Reis
     - Thales Barcelos de Castro
     - Caio César Oliveira Cândido
+      
+- **Os Padrinhos Mágicos** (UFV-Florestal)
+    - Douglas Diones Marcelino Silva
+    - Guilherme Broedel Zorzal
+    - Arthur Ataíde de Melo Saraiva
 
 - **Saudades Leonardo :(** (UFV-Viçosa)
     - João Vitor De Melo Machado
@@ -171,5 +174,5 @@ O melhor time visitante foi:
 - **Main(inas).c++** (CEFET-Leopoldina), com 6 problemas resolvidos
 
 Os melhores times de calouros (ainda cursando Programação II)  foram:
-- **Capivara 404**, com prêmio de kits da SBC (bonés, copo, bottons)
-- **calouros.cpp**, com prêmio de vouchers de pizza do Noa Noa Viçosa
+- **Capivara 404**, brinde de kits da SBC (bonés, copo, bottons)
+- **calouros.cpp**, brinde de vouchers de pizza do Noa Noa Viçosa
