@@ -36,9 +36,6 @@ A prova continha 13 problemas, desenvolvidos pelos professores André Gustavo do
 
 - [Caderno de Questões]({{ page.problems | relative_url}})
 - Discussão de Soluções (em breve)
-<!--
-- [Discussão de Soluções]({{ page.solutions | relative_url}})
--->
 
 A prova está disponível para solução no [Codeforces](https://codeforces.com/group/ZUukhOS6Bj/contest/559497).
 
