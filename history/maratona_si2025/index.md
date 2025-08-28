@@ -36,7 +36,7 @@ O evento foi organizado pelos seguintes professores do [Departamento de Informá
 
 ## **Problemas**
 
-A prova continha 13 problemas, desenvolvidos pelos professores André Gustavo dos Santos e Salles Viana Gomes de Magalhães, e pelos ex-aluunos maratonistas da UFV Dener Vieira Ribeiro, Henrique Campos Padula e Samuel Raimundo Lopes Pinto.
+A prova continha 13 problemas, desenvolvidos pelos professores André Gustavo dos Santos e Salles Viana Gomes de Magalhães, e pelos ex-alunos maratonistas da UFV Dener Vieira Ribeiro, Henrique Campos Padula e Samuel Raimundo Lopes Pinto.
 
 - [Caderno de Questões]({{ page.problems | relative_url}})
 - Discussão de Soluções (em breve)
