@@ -23,7 +23,7 @@ sponsors:
 
 ## **Introdução**
 
-A VIII Maratona de Programação da Semana de Informática ocorreu durante a Semana de Informática de 2025 e contou com a participação de 25 times, sendo 20 times formados por alunos de graduação da UFV Viçosa e 4 times de visitantes: 4 da UFV Florestal e 1 do CEFET-Leopoldina. A prova teve duração de 4 horas, sendo que os times de Florestal e do CEFET fizeram a prova remotamente e os demais presencialmente nos Laboratórios de Ensino (CCE410) e de Ensino e Extensão (CCE416) do Departamento de Informática.
+A VIII Maratona de Programação da Semana de Informática ocorreu durante a Semana de Informática de 2025 e contou com a participação de 25 times, sendo 20 times formados por alunos de graduação da UFV Viçosa e 4 times de visitantes: 4 da UFV Florestal e 1 do CEFET-Leopoldina. A prova teve duração de 4 horas, com os times de Florestal e do CEFET participando remotamente e os demais presencialmente nos Laboratórios de Ensino (CCE410) e de Ensino e Extensão (CCE416) do Departamento de Informática.
 
 <!--
 ## **Organizadores**
@@ -170,7 +170,7 @@ A prova está disponível para solução no [Codeforces](https://codeforces.com/
 
 Os três melhores colocados de graduação da UFV Viçosa foram os seguintes:
 - 1<sup>o</sup>  lugar - time **They tell and They tell again**, 9 problemas resolvidos - prêmio de R$600 da Cientec
-- 2<sup>o</sup>  lugar -  time **Saudades Leonardo :(**, 8 problemas resolvidos - prêmio de R$200 da Cientec
+- 2<sup>o</sup>  lugar -  time **Saudades Leonardo :(**, 8 problemas resolvidos - prêmio de R$300 da Cientec
 - 3<sup>o</sup>  lugar -  time **Cltr+3.peg**, 7 problemas resolvidos - prêmio de R$150 da Cientec
 
 O melhor time feminino foi:
@@ -180,5 +180,5 @@ O melhor time visitante foi:
 - **Main(inas).c++** (CEFET-Leopoldina), com 6 problemas resolvidos
 
 Os melhores times de calouros (ainda cursando Programação II)  foram:
-- **Capivara 404**, brinde de kits da SBC (bonés, copo, bottons)
-- **calouros.cpp**, brinde de vouchers de pizza do Noa Noa Viçosa
+- **Capivara 404** - prêmio kits da SBC com bonés, copo e bottons
+- **calouros.cpp** -  prêmio vouchers de pizza do Noa Noa Viçosa
