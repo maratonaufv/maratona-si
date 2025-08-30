@@ -179,6 +179,6 @@ O melhor time feminino foi:
 O melhor time visitante foi:
 - **Main(inas).c++** (CEFET-Leopoldina), com 6 problemas resolvidos
 
-Os melhores times de calouros (ainda cursando Programação II)  foram:
+Os melhores times de calouros foram:
 - **Capivara 404** - prêmio kits da SBC com bonés, copo e bottons
 - **calouros.cpp** -  prêmio vouchers de pizza do Noa Noa Viçosa
