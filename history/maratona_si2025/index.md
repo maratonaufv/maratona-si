@@ -2,7 +2,7 @@
 layout: contest
 university: Universidade Federal de Viçosa
 department: Departamento de Informática
-contest: VII Maratona de Programação</br>Semana de Informática
+contest: VIII Maratona de Programação</br>Semana de Informática
 semester: 2025
 date: 26 de agosto de 2025
 hours: 18:15 - 22:15
@@ -134,7 +134,7 @@ A prova está disponível para solução no [Codeforces](https://codeforces.com/
     - Fernando César Pereira Reis
     - Thales Barcelos de Castro
     - Caio César Oliveira Cândido
-      
+
 - **Os Padrinhos Mágicos** (UFV-Florestal)
     - Guilherme Broedel Zorzal
     - Arthur Ataíde de Melo Saraiva
