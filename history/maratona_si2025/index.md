@@ -41,7 +41,7 @@ A prova continha 13 problemas, desenvolvidos pelos professores André Gustavo do
 - [Caderno de Questões]({{ page.problems | relative_url}})
 - Discussão de Soluções (em breve)
 
-A prova está disponível para solução no [Codeforces](https://codeforces.com/group/ZUukhOS6Bj/contest/559497).
+A prova está disponível para solução no [Codeforces](https://codeforces.com/group/ZUukhOS6Bj/contest/632376).
 
 ## **Times Participantes**
 
