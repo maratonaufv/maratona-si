@@ -29,7 +29,7 @@ carousels:
     - image: /assets/images/si2025/IMG_9893.jpg
 ---
 
-{% include carousel.html height="40" unit="%" duration="3" number="1" %}
+{% include carousel.html height="60" unit="%" duration="3" number="1" %}
 
 
 ## **Introdução**
