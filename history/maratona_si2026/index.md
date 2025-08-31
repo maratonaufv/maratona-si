@@ -21,11 +21,11 @@ sponsors:
      image: /history/maratona_si2025/sponsors/bitka-bip_logo.png
 carousels:
   - images:
-    - image: /assets/images/si2025/IMG_9847.jpg
-    - image: /assets/images/si2025/IMG_9849.jpg
-    - image: /assets/images/si2025/IMG_9872.jpg
     - image: /assets/images/si2025/IMG_9880-2.jpg
     - image: /assets/images/si2025/IMG_9882.jpg
+    - image: /assets/images/si2025/IMG_9849.jpg
+    - image: /assets/images/si2025/IMG_9872.jpg
+    - image: /assets/images/si2025/IMG_9855.jpg
     - image: /assets/images/si2025/IMG_9893.jpg
 ---
 
