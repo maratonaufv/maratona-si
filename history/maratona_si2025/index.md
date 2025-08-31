@@ -7,7 +7,7 @@ semester: 2025
 date: 26 de agosto de 2025
 hours: 18:15 - 22:15
 room: CCE410/416
-photo: /assets/images/si2025/IMG_9880.jpg
+<!-- photo: /assets/images/si2025/IMG_9880.jpg -->
 problems: /history/maratona_si2025/maratonaSI25.pdf
 solutions: /history/maratona_si2025/maratonaSI25-sol.pdf
 sponsors:
@@ -19,7 +19,17 @@ sponsors:
      image: /history/maratona_si2025/sponsors/levty_logo.png
    - url: https://www.bitkaanalytics.com.br
      image: /history/maratona_si2025/sponsors/bitka-bip_logo.png
+carousels:
+  - images:
+    - image: /assets/images/si2025/IMG_9880-2.jpg
+    - image: /assets/images/si2025/IMG_9882.jpg
+    - image: /assets/images/si2025/IMG_9107.jpg
+    - image: /assets/images/si2025/IMG_9872.jpg
+    - image: /assets/images/si2025/IMG_9881.jpg
+    - image: /assets/images/si2025/IMG_9893.jpg
 ---
+
+{% include carousel.html height="60" unit="%" duration="3" number="1" %}
 
 ## **Introdução**
 
