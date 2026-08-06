@@ -1,5 +1,5 @@
 # Site settings
-title: Maratona da SI 2025
+title: Maratona da SI 2026
 description: Universidade Federal de Viçosa
 domain: maratonaufv.github.io   # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://maratonaufv.github.io  # the base hostname and protocol for your site, e.g. http://example.com
@@ -11,7 +11,7 @@ source: maratona-si
 incremental: false
 
 # Workshop date
-workshop_date: 26 de agosto de 2025
+workshop_date: 18 de agosto de 2026
 
 # Build settings
 markdown: kramdown

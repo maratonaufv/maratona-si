@@ -19,7 +19,8 @@ carousels:
 
 ## Avisos
 
-- A prova da edição 2025 já está disponível no Codeforces! (link e dicas na seção Edições Anteriores)
+- **As inscrições para a IX Maratona da SI estarão abertas em breve!**
+<!-- - A prova da edição 2025 já está disponível no Codeforces! (link e dicas na seção Edições Anteriores) -->
 <!-- - **As inscrições para a VIII Maratona da SI estarão abertas em breve!** -->
 <!-- - A VIII Maratona da SI será realizada dia 26 de agosto, durante a Semana de Informática de 2025. Inscriçoes [aqui](https://forms.gle/cCPvAhDoCK3RvJd36). -->
 
