@@ -3,12 +3,15 @@ layout: default
 title: Home
 carousels:
   - images:
+    - image: /assets/images/si2026/IMG_2877.jpg
+    - image: /assets/images/si2026/IMG_0628.jpg
+    - image: /assets/images/si2026/IMG_2985.jpg
     - image: /assets/images/si2022/IMG_8958.jpg
-    - image: /assets/images/si2022/IMG_9016.jpg
-    - image: /assets/images/si2022/IMG_8987.jpg
     - image: /assets/images/si2022/IMG_8963.jpg
-    - image: /assets/images/si2022/IMG_8940.jpg
-    - image: /assets/images/si2022/IMG_8975.jpg
+    - image: /assets/images/si2025/IMG_9882.jpg
+    - image: /assets/images/si2025/IMG_9107.jpg
+    - image: /assets/images/si2025/IMG_9872.jpg
+    - image: /assets/images/si2025/IMG_9881.jpg
 ---
 
 <!-- ## O que é a Maratona da SI? -->
@@ -19,7 +22,8 @@ carousels:
 
 ## Avisos
 
-- **As inscrições para a IX Maratona da SI estarão abertas em breve!**
+- **Resultados da prova da edição 2026** já estão disponíveis! <i>(veja seção Edições Anteriores)</i>
+<!-- - **As inscrições para a IX Maratona da SI estarão abertas em breve!** -->
 <!-- - A prova da edição 2025 já está disponível no Codeforces! (link e dicas na seção Edições Anteriores) -->
 <!-- - **As inscrições para a VIII Maratona da SI estarão abertas em breve!** -->
 <!-- - A VIII Maratona da SI será realizada dia 26 de agosto, durante a Semana de Informática de 2025. Inscriçoes [aqui](https://forms.gle/cCPvAhDoCK3RvJd36). -->

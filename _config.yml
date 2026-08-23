@@ -7,7 +7,7 @@ baseurl: maratona-si            # place folder name if the site is served in a s
 
 lsi: false
 safe: true
-source: maratona-si
+# source: maratona-si
 incremental: false
 
 # Workshop date
