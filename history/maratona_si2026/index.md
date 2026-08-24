@@ -55,7 +55,7 @@ A prova continha 11 problemas, desenvolvidos pelos professores André Gustavo do
 - [Caderno de Questões]({{ page.problems | relative_url}})
 - [Discussão de Soluções]({{ page.solutions | relative_url}})
 
-A prova está disponível para solução no Codeforces (em breve).<!--[Codeforces](https://codeforces.com/group/ZUukhOS6Bj/contest/712258).-->
+A prova está disponível para [Codeforces](https://codeforces.com/group/ZUukhOS6Bj/contest/712258).
 
 ## **Times Participantes**
 
