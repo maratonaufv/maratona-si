@@ -217,18 +217,18 @@ O melhor time feminino foi:
 
 Os melhores times de calouros foram:
 
-- **Equipe Cão** - 7 problemas resolvidos - prêmio de R$90 da Cientec, 3 copos Stanley da BIP e livro Competitive Programming 4 do ex-aluno Henrique Padula
-- **meiaBOCAjuniors** - 6 problemas resolvidos - prêmio de R$60 da Cientec e 3 copos Stanley da BIP
-- **Asimov.dev** (Eng. Robôs)- 5 problemas resolvidos - 3 kits da Sydle
+- **Equipe Cão**, 7 problemas resolvidos - prêmio de R$90 da Cientec, 3 copos Stanley da BIP e livro Competitive Programming 4 do ex-aluno Henrique Padula
+- **meiaBOCAjuniors**, 6 problemas resolvidos - prêmio de R$60 da Cientec e 3 copos Stanley da BIP
+- **Asimov.dev** (Eng. Robôs), 5 problemas resolvidos - 3 kits da Sydle
 
 <!--
 Os melhores times visitante foram:
 -->
 Destaque para times visitantes:
 
-- **Mau avô era mecânico** (com ex-alunos), com 11 problemas resolvidos, melhor resultado
-- **Bitkaos** (BIP/BITKA, com ex-alunos), com 11 problemas resolvidos, melhor resultado presencial
-- **Merge & Sorte** (CEFET-MG/Leopoldina), com 7 problemas resolvidos, melhor visitante de graduação
+- **Mau avô era mecânico** (com ex-alunos), 11 problemas resolvidos, melhor resultado
+- **Bitkaos** (BIP/BITKA, com ex-alunos), 11 problemas resolvidos, melhor resultado presencial
+- **Merge & Sorte** (CEFET-MG/Leopoldina), 7 problemas resolvidos, melhor visitante de graduação
 
 E ainda:
 
